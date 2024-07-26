@@ -12,15 +12,15 @@ To develop a Python algorithm that efficiently updates an allow list of IP addre
 
 ### Skills Learned
 
-- Reading and writing files in Python
+- Reading and writing files
 - Parsing file contents
-- Manipulating data structures (lists) in Python
-- Implementing control flow and iteration in Python
-- Applying string methods in Python
+- Manipulating data structures (lists)
+- Implementing control flow and iteration
+- Applying string methods
 
 ### Tools Used
 
-- Python programming language
+<img src="https://img.shields.io/badge/-Python-306998?&style=for-the-badge&logo=python&logoColor=white" />
 
 ## Steps
 
